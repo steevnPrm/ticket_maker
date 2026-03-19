@@ -1,0 +1,10 @@
+==========================================
+TICKET ID: [ CREATION UI CATALOGUE PARSER ]
+TYPE     : Feat
+TITRE    : creation ui catalogue parser
+------------------------------------------
+DESCRIPTION :
+à implémenter ce soir
+
+Date de création : 19/03/2026 12:18
+==========================================
